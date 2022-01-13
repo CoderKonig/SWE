@@ -1,2 +1,2 @@
 # SWE
-SWE Files and Commits CSC
+SWE Files, All commits are in Master branch.
